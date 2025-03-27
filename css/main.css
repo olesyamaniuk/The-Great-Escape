@@ -1064,7 +1064,7 @@ a {
     margin: auto;
     display: flex;
     flex-direction: row;
-    gap: 0px;
+    gap: 80px;
   }
 
   .great-cookie-popup {
